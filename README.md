@@ -6,7 +6,7 @@
 
 <h2> Would love to explain my solutions and approach <br>
 Drop a mail at <a href="mailto:ch.hamdan.edu@gmail.com">ch.hamdan.edu@gmail.com</a> <br>
-Linkedin : <a href="https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1a6/">Chaudhary Hamdan </a></h2><br>
+Linkedin : <a href="https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1a6/">Chaudhary Hamdan </a></h2>
 <br>
 <h1>After this contest I became 5 star coder.</h1>
 <br>
